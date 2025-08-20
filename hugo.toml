@@ -5,6 +5,10 @@ languageCode = "pt-BR"
 defaultContentLanguage = "pt-BR"
 enableEmoji = true
 
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
+
 [pagination]
 pagerSize = 6
 
